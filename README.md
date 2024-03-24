@@ -6,6 +6,7 @@
 
 ![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick2026&show_icons=true&theme=highcontrast)
 
+
 ## Tecnologias que uso no meu dia
 
 <div style="display: flex"><br/>
