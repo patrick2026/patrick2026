@@ -5,6 +5,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-ventura-170628258/)
 
 ![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick2026&show_icons=true&theme=highcontrast)
+![Patrick GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick2026&layout=compact&langs_count=16theme=dracula)
+
+
 
 
 ## Tecnologias que uso no meu dia
